@@ -1,0 +1,17 @@
+{
+  "name": "LMS",
+  "description": "",
+  "main": "",
+  "authors": [
+    "ChristianHardy <jsilkh0@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ChristianHardy/LMS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
